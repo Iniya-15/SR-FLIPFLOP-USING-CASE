@@ -34,7 +34,16 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 
 **Procedure**
 
-/* write all the steps invloved */
+step 1: Declare inputs and outputs
+
+step 2: Create a clocked always block
+
+step 3: Combine inputs using concatenation
+
+step 4: Write the case statement
+
+step 5: Assign output based on case
+
 
 **PROGRAM**
 
